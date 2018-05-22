@@ -17,3 +17,5 @@ This is an automatic object tracker project using image processing. This is the 
  - MATLAB
  -Atmel Studio
  
+#Video
+https://www.youtube.com/watch?v=sOiPmPbo84c
